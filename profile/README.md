@@ -1,2 +1,2 @@
 # ENHANCE GRID PERFORMANCE
-https://www.splight-ai.com/
+https://www.splight.com/
